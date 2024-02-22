@@ -57,7 +57,7 @@ Actions:
 # Research Team
 * Marios Touloupou (@mtouloup) [ touloupos.m@unic.ac.cy ]
 * Antonios Inglezakis (@antiggl) [ inglezakis.a@unic.ac.cy ]
-* Klitos Christodoulou [ christodoulou.kl@unic.ac.cy ]
+* Klitos Christodoulou (@klitoschr) [ christodoulou.kl@unic.ac.cy ]
 * Elias Iosif [ iosif.e@unic.ac.cy ]
 
 ## UBRI Funding
